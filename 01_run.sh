@@ -1,0 +1,1 @@
+python ./01_transaction_script/01_transaction_script.py
